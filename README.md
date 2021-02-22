@@ -1,4 +1,5 @@
 # zombie-shooter-BETA
+The .EXE to start the game is found in the dist folder
 The controls for this game are WASD to move and SPACE to shoot
 you aim with your mouse
 This game does not have a name and i am open to suggestions for said name
